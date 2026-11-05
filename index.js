@@ -1,4 +1,9 @@
 function saudacao(nome){
     return nome
 }
-console.log(saudacao(claudio))
+
+
+
+function soma(num1,num2){
+    return num1 + num2
+}
